@@ -1,1 +1,9 @@
-
+python-dotenv
+langchain
+langchain-core
+langchain-mistralai
+langchain-huggingface
+transformers
+torch
+streamlit
+huggingface_hub
