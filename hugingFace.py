@@ -6,8 +6,8 @@ embedding = HuggingFaceEmbeddings(
 )
 texts = [
     "Hello this is Mohit Malviya ",
-    "you are my robo",
-    "And you all are very beautiful"
+    "you are my falak",
+    "we both are good"
 ]
 
 
