@@ -1,4 +1,4 @@
-from langchain_huggingface import ChatHugingFace ,HuggingFaceEndpoint
+from langchain_huggingface import ChatHuggingFace
 
 llm = HuggingFaceEndpoint(
     repo_id = "Gpt4.1"
