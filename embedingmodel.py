@@ -9,9 +9,9 @@ embeddings = OpenAIEmbeddings(
 )
 
 texts = [
-    "Hello this is Akarsh Vyas",
-    "Hello your name is YouTube",
-    "And you all are very beautiful"
+    "Hello this is Mohit Malviya ",
+    "you are my falak",
+    "we both are good"
 ]
 
 vector = embeddings.embed_documents(texts)
