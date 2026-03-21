@@ -2,7 +2,7 @@ python-dotenv
 langchain
 langchain-core
 langchain-mistralai
-langchain-huggingface
+langchain-huggingface  
 transformers
 torch
 streamlit
