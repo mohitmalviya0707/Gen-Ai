@@ -11,7 +11,7 @@ texts = [
 ]
 
 
-
+    
 vector = embedding.embed_documents(texts)
 
 print(vector)
