@@ -7,7 +7,7 @@ embeddings = OpenAIEmbeddings(
     model = 'text-embedding-3-large',
     dimensions=64
 )
-
+  
 texts = [
     "Hello this is Mohit Malviya ",
     "you are my falak",
