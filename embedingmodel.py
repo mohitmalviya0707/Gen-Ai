@@ -6,7 +6,7 @@ load_dotenv()
 embeddings = OpenAIEmbeddings(
     model = 'text-embedding-3-large',
     dimensions=64
-)
+) 
       
 texts = [
     "Hello this is Mohit Malviya ",      
@@ -17,3 +17,5 @@ texts = [
 vector = embeddings.embed_documents(texts)
 
 print(vector)
+
+-
