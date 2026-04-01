@@ -8,6 +8,6 @@ llm = HuggingFaceEndpoint(
 
 model = ChatHugingFace(llm=llm)
 
-reponse = model.invoke("who create you ?")
+reponse = model.invoke("who create you ?")  
 
 print(reponse.content)
